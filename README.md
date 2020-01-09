@@ -20,11 +20,11 @@ dropdown();
 ```
 <div class="dropdown-menu-container">
     <div class="menu dropdown-menu">Menu Name</div>
-        <ul class="submenu-container">
+    <ul class="submenu-container">
         <li class="menu">Sub-menu 1</li>
         <li class="menu">Sub-menu 2</li>
         <li class="menu">Sub-menu 3</li>
-        </ul>
+    </ul>
 </div>
 ```
 
